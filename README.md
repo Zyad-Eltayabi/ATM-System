@@ -1,4 +1,4 @@
-# Simple ATM System
+# ATM System
 
 This C++ program simulates a basic ATM system with features such as quick withdrawal, normal withdrawal, deposit, and balance checking.
 
@@ -49,4 +49,3 @@ Contributions are welcome. If you find a bug or have an enhancement in mind, ple
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
