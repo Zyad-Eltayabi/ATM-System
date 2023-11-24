@@ -1,0 +1,5 @@
+﻿  ATM.cpp
+D:\Programming\C++\08 - Algorithms & Problem Solving Level 4\ATM System\ATM\ATM.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\C++\08 - Algorithms & Problem Solving Level 4\ATM System\ATM\ATM.cpp(316,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Programming\C++\08 - Algorithms & Problem Solving Level 4\ATM System\ATM\ATM.cpp(124): warning C4715: 'CheckBalance': not all control paths return a value
+  ATM.vcxproj -> D:\Programming\C++\08 - Algorithms & Problem Solving Level 4\ATM System\Debug\ATM.exe
